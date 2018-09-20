@@ -1,0 +1,19 @@
+Yvonne Chan & Alvin Zhu
+3074
+MKS22 Period 1
+Final Project
+
+Buzz&Meet Features
+-our company logo on the top of every page
+-navigation bar on top that contains links to most of the features of the website on every page
+-pictures are found on various pages of our site
+
+Hompage: Summary of the purpose of our website and some introductory remarks.
+
+Profile: Includes Personal Information of each user and their quiz results. Updates as the user interacts with more parts of the website.
+
+Quiz Adventure: User must take 3 quizs in a row in order for us to pair them up with another user. The quizzes revolve around topics like food, entertainment, and lifestyle, respectively.
+
+My Match: User is paired up with another user based on the similarity in their quiz results. User also has the option of view his/her match's profile to see how similar they truly are.
+
+Log out: This part of the navigation bar simply leads user to page where they have been logged out.

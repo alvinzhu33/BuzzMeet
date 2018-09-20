@@ -1,0 +1,8 @@
+juliet,McDonald's,Grains,China,Fancy 5-star restaurant,$10,Comedy,Twilight,Hip Hop,On opening weekend,Game of Thrones,1,New York City,Dog,Close to none,Doctor,
+romeo,McDonald's,Grains,China,Fancy 5-star restaurant,$10,Comedy,Twilight,Hip Hop,On opening weekend,Game of Thrones,1,New York City,Dog,Close to none,Doctor,
+kim,Burger King,Vegetables,Italy,Fast Food Restaurants,$20,Horror,The Hunger Games,Pop,When it's on DVD,Orange is the New Black,2,Chicago,Cat,3-7 hours,President,
+kris,Burger King,Vegetables,Italy,Fast Food Restaurants,$20,Horror,The Hunger Games,Pop,When it's on DVD,Orange is the New Black,2,Chicago,Cat,3-7 hours,President,
+ty,Subway,Proteins,India,Hipster Cafes/Restaurants,$50,Action,Mean Girls,Rock,When it's available online,Once Upon a Time,3,Los Angeles,Rabbit,8-14 hours,Actor,
+sansa,Subway,Proteins,India,Hipster Cafes/Restaurants,$50,Action,Mean Girls,Rock,When it's available online,Once Upon a Time,3,Los Angeles,Rabbit,8-14 hours,Actor,
+Paris,Dunkin' Donuts,Dairy,Mexico,At home,$100+,Romance,Pitch Perfect,Classical,Sometime in theatres,The Big Bang Theory,4,Seattle,None,15+ hours,Writer,
+helen,Dunkin' Donuts,Dairy,Mexico,At home,$100+,Romance,Pitch Perfect,Classical,Sometime in theatres,The Big Bang Theory,4,Seattle,None,15+ hours,Writer,

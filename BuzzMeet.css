@@ -1,0 +1,47 @@
+body {
+    font-family: Calibri}
+
+
+#logo {
+    color: #9a33de;
+    font-family: Script}
+
+
+table.box {
+    border-radius: 20px;
+    padding: 10px;
+    color: black;
+    background-color: #CC99FF;}
+
+
+#clickables {
+    border-radius: 10px;
+    padding: 10px;
+    color: black}
+
+table.quiz td {    
+    width:300px}
+
+#menu {
+    width: 100%;
+    float: left;
+    margin: 0;
+    padding: 0;
+    list-style: none;}
+
+#menu li {
+    float: left;
+    background-color: }
+
+#menu li a {
+    display: block;
+    font-weight: bold;
+    padding: 8px 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: palevioletred;
+    font-size: 25px}
+
+#menu li a:hover {
+    background-color: #ba0f48;
+    color: #f7c757;}

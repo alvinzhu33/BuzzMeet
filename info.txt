@@ -1,0 +1,8 @@
+romeo,Male,Straight,15,NYC,New York,lol@yahoo.com,
+juliet,Female,Straight,16,NYC,New York,lmao@yahoo.com,
+kim,Female,Straight,35,Hollywood,California,omg@hotmail.com,
+kris,Male,Straight,35,Hollywood,California,lol@hotmail.com,
+ty,Male,Straight,40,Casterly Rock,Westoros,imp@gmail.com,
+sansa,Female,Straight,20,Winterfell,Westoros,heartjoffrey@gmail.com,
+Paris,Male,Straight,17,Athens,Greece,mountain@aol.com,
+helen,Female,Straight,17,Troy,Greece,hotterthanthegoddesses@aol.com,

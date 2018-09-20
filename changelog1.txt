@@ -1,0 +1,55 @@
+Yvonne Chan & Alvin Zhu - Buzz & Meet
+05/29
+Alvin: Cycled through all of Mr.K's code to see which parts are necessary and which parts we can take out. Starting to set up create account page
+Yvonne: Starting to set up Login page checker
+
+05/30-5/31
+Alvin: Cleaned up create page to make it look more fresh and more visually appealing. Created css page. Chose a brand color and font.
+Yvonne: Modified and applied css to login page to make it even more pretty. Made the login in page and create page functional together
+
+06/01
+Yvonne: Began setting up the home page of the website. 
+
+06/02
+Yvonne: Completed the homepage of the website, ready to be modified as time goes on and we add more features. Modified login.html to ask users for the name as well as username and password, like the create page. Also began setting up the profile page.
+Alvin: Fixed create.py and optimized it to include name. Planned out quizes and thought about how to make the match making.
+
+06/03
+Yvonne: Set up profile, began setting up the logout page.
+Alvin: Changed login.html to exclude form for "Name" (it would be quite annoying to have to type in your name every time you log in). Changed login page to make it look better. Changed home page to make it look better, rephrased the introductory paragraph, added links to the Profile Page and Quiz Center
+
+6/04
+Yvonne: Finished setting up logout page. Changed login.py to exclude "Name".
+Alvin: Started the quiz center. Created html and made the first quiz a user must complete.
+
+06/05
+Yvonne: Created the second quiz for the quiz center. Added pictures to make the layout look more attractive.
+Alvin: Fixed the first quiz for the quiz center. Created a new css for the quizzes. Added pictures and made it look nicer overall.
+
+06/06-07
+Alvin: Renamed quizcenter to quiz1.py. Modified the first and second quizes. Created profiles.txt and made the quizzes be able to append information on to it. Made the quizzes work with the program. Created the matching system.
+Yvonne: Finished second quiz. Created a quiz center page to access all the quizzes. Completed the profile page.
+
+06/08
+Yvonne: finished matching system. Shared files to make both our websites the same. Modified most recent files (quiz1.py,quiz2.py,match.py) so that it would check to make sure user is logged in. Modified logout.py to make it look more appealing.
+Both: Decided to take out quizcenter.py
+
+06/09
+Yvonne: created findprofile.py and oneprofile.py to allow users to view their match's profile to see just how similar they are to each other!
+Alvin: Fixed match.py, clearprofile.py, quiz1.py from python errors, internal errors, and gateway timeouts
+
+06/10
+Yvonne: Updated entertainment quiz to have pictures and consolidated the .py files created the day before to just oneprofile.py that is linked directly from match.py
+Alvin: Started implementing the restrictor for quiz1.py and quiz2.py. Fixed match.py so it tells you when a person didn't complete the quizzes yet.
+
+06/11
+Yvonne: Updated all quizzes to have pictures! Fixed some errors with the quizzes.
+Alvin: Created quiz3.py. Made quiz1.py and quiz2.py work with quiz3.py. Fixed error where quiz2.py started a new line.
+
+06/12
+Yvonne: Merged both our files so they work with each other. Fix any errors or issues with any file.
+Alvin: Check over the whole site to test whether we got our site working or not. Fixed all the issues present.
+
+0613-14
+Yvonne: Updated CSS and modified the layout of website. Merged both Alvin and my files so they work coherently. Fix problems with oneprofile.py and profile.py. Created features.txt that includes all the features of our website. 
+Alvin: Created a navigation bar. Added to the css file and change every py and html file to accomodate for the new navigation bar. Made a new profileinfo.txt to allow other users to see another person's gender, sexual orientation, age, location, and email address. Added pictures to home.py and create.html to make the site more tacky. Created new users to test out.
